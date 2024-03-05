@@ -1,0 +1,15 @@
+@import 'base';
+@import 'grid';
+@import 'header';
+@import 'form';
+@import 'list';
+@import 'input';
+
+@media only screen and (max-width: 350px) {
+    // Adjust styles for smaller screens here
+    .grid-container {
+      width: 100%; // Adjust width for mobile view
+      height: auto; // Adjust height for mobile view or remove to allow content to determine height
+      margin-top: 10px; // Adjust margins for mobile view
+    }
+}

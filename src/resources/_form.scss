@@ -1,0 +1,10 @@
+.toDoform {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .toggleTodo {
+    display: grid;
+    grid-template-rows: 2fr;
+    margin-bottom: 200px;
+  }

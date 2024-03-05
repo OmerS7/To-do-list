@@ -1,0 +1,67 @@
+/* body{
+    background-color:rgb(40, 40, 40);
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    height: 100vh;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: #0d0d0d;
+
+    border-radius: 20px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+    height: 400px;
+}
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    color:rgb(255, 255, 255);
+}
+
+.toDoform{
+    display: flex;
+    justify-content: center;
+}
+
+.toggleTodo{
+    display: grid;
+    grid-template-rows: 2fr;
+    margin-bottom: 200px;
+}
+
+ul {
+    list-style: none;
+}
+
+button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+input {
+    border: none;
+    border-radius: 40px;
+    background-color: rgb(27, 22, 30);
+    box-shadow: 0px 1px 10px rgba(255, 255, 255, 0.5);
+    color: rgb(50, 38, 38);
+    padding: 20px;
+    font-size: 15px;
+}
+
+.button[data-button-type="button-delete"] {
+    background: none;
+    color: rgb(156, 156, 156);
+    cursor: pointer;
+}   
+ */
